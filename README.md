@@ -183,7 +183,6 @@ Contributions are welcome! Please read our contributing guidelines and submit pu
 
 ## Support
 - GitHub Issues: [Report issues](https://github.com/captainzero93/ubuntu-security-script/issues)
-- Documentation: [Wiki](https://github.com/captainzero93/ubuntu-security-script/wiki)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -199,6 +198,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - v2.0: Added network segmentation, improved monitoring
 - v1.0: Initial release
 
-## Authors
-- captainzero93 (Project Lead)
 

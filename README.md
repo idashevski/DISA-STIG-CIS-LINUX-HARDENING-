@@ -15,7 +15,6 @@ This project provides a comprehensive security hardening solution for Ubuntu and
 
 ## Requirements
 - Ubuntu 18.04+ or Debian 12.0+
-- Minimum 1GB RAM
 - Minimum 5GB free disk space
 - Root or sudo access
 - Active internet connection

@@ -47,7 +47,7 @@ sudo ./enhanced-security-script.sh --dry-run
 ```
 
 ## Configuration
-The script uses a configuration file (`security_config.conf`) for customization. A default configuration file is provided in the repository.
+The script uses a configuration file (`security_config.conf`) for customization. A default configuration file is provided in the repository. However you will want to use less strict settings for a Home machine
 
 ### Configuration File Setup
 The configuration file is automatically loaded from the same directory as the script. You can modify the settings before running the script:

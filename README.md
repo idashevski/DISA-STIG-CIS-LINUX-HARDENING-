@@ -178,12 +178,6 @@ tail -f /var/log/security_hardening.log
 4. Monitor logs after implementation
 5. Regularly update security policies
 
-## Contributing
-Contributions are welcome! Please read our contributing guidelines and submit pull requests to our GitHub repository.
-
-## Support
-- GitHub Issues: [Report issues](https://github.com/captainzero93/ubuntu-security-script/issues)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 

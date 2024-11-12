@@ -4,14 +4,14 @@
 This project provides a comprehensive security hardening solution for Ubuntu and Debian-based Linux systems, implementing DISA STIG and CIS Compliance standards. Version 3.0 includes enhanced features, improved error handling, and configurable security controls.
 
 ## Features
-- 🛡️ Comprehensive system hardening aligned with STIG/CIS standards
-- 🔒 Advanced firewall configuration with network segmentation
-- 🔍 Intrusion detection and prevention (Fail2Ban, OSSEC)
-- 📝 Detailed logging and monitoring
-- 🔄 Automated backup and recovery
-- 🚫 USB device control
-- 🌐 Network isolation and VLAN support
-- 📊 Security reporting and compliance checking
+- Comprehensive system hardening aligned with STIG/CIS standards
+- Advanced firewall configuration with network segmentation
+- Intrusion detection and prevention (Fail2Ban, OSSEC)
+- Detailed logging and monitoring
+- Automated backup and recovery
+- USB device control
+- Network isolation and VLAN support
+- Security reporting and compliance checking
 
 ## Requirements
 - Ubuntu 18.04+ or Debian 12.0+

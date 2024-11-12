@@ -24,10 +24,11 @@ This project provides a comprehensive security hardening solution for Ubuntu and
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/captainzero93/ubuntu-security-script.git
+git clone https://github.com/captainzero93/DISA-STIG-CIS-LINUX-HARDENING-.git
 
 # Change to the script directory
-cd ubuntu-security-script
+
+cd DISA-STIG-CIS-LINUX-HARDENING-
 
 # Make the script executable
 chmod +x enhanced-security-script.sh

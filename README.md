@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - DISA STIG Guidelines
 - CIS Benchmarks
-- Ubuntu Security Team
+- Debian/Ubuntu Security Team
 - Open Source Security Community
 
 ## Version History

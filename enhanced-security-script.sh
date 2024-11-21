@@ -209,7 +209,7 @@ restore_backup() {
     # Verify archive checksum
     if ! sha256sum -c "${backup_path}.tar.gz.sha256"; then
         handle_error "Backup archive integrity check failed" 13
-    }
+    fi
     
     # Extract archive
     sudo tar -xzf "${backup_path}.tar.gz" -C / || handle_error "Failed to extract backup archive" 14
